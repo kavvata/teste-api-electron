@@ -1,0 +1,12 @@
+html {
+    background-color: midnightblue;
+}
+.wrapper {
+    background: cornsilk;
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+}
+.piada {
+    text-align: center;
+}
